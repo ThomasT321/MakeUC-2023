@@ -9,21 +9,21 @@
     <div class="leftsidebar sidebar">
         <h3>Rate This Summarization</h3>
         <p>Is this important to you?</p>
-        <form class="rating">
+        <form id="imp" class="rating">
             <input type="radio" id="bYes" name="bias" value="yes">
             <label for="Yes">Yes</label><br>
             <input type="radio" id="bNo" name="bias" value="no">
             <label for="No">No</label><br>
         </form>
         <p>Is this summarization biased?</p>
-        <form class="rating">
+        <form id="bias" class="rating">
             <input type="radio" id="bYes" name="bias" value="yes">
             <label for="Yes">Yes</label><br>
             <input type="radio" id="bNo" name="bias" value="no">
             <label for="No">No</label><br>
         </form>
         <p>Your vote</p>
-        <form class="rating">
+        <form id="opin" class="rating">
             <input type="radio" id="bYes" name="bias" value="yes">
             <label for="Yes">Yes</label><br>
             <input type="radio" id="bNo" name="bias" value="no">
@@ -32,14 +32,17 @@
         <button class="nicebutton" type="submit" value="Submit" onclick="SubmitRatings()">Submit</button>
     </div>
     <div class="summary">
-        <h1>Article Title</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex temporibus odio quidem pariatur. Error totam quibusdam harum aut quasi natus! Harum at quos modi veritatis pariatur inventore error quam autem!</p>
+        <h1>{{ title }}</h1>
+        <p>{{ summary }}</p>
     </div>
     <div class="rightsidebar sidebar">
         <h3>People Rated This Summary</h3>
         <p>Importance Rating:</p>
+        <p>{{ importance }}</p>
         <p>Bias Rating:</p>
+        <p>{{ bias }}</p>
     </div>
 </div>
-<div class="spacer"></div>
+<script src="./user_interaction.js"></script>
+<br>
 {% endblock %}
