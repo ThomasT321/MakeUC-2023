@@ -14,7 +14,7 @@ if ENV_FILE:
     load_dotenv(ENV_FILE)
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///your_database.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///user_res.db'
 app.secret_key = env.get("APP_SECRET_KEY")
 
 db = SQLAlchemy(app)
@@ -27,9 +27,22 @@ class Ratings(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     UserId = db.Column(db.Text)
     ArtId = db.Column(db.Text)
-    Biased = db.Column(db.Boolean)
-    Important = db.Column(db.Boolean)
-    Opinion = db.Column(db.Boolean)
+    Biased = db.Column(db.Integer)
+    Important = db.Column(db.Integer)
+    Opinion = db.Column(db.Integer)
+
+idmap = {
+    "hb59": 1,
+    "hb60": 2,
+    "hb61": 3,
+    "hb62": 4,
+    "hb63": 5,
+    "sb58": 6,
+    "sb59": 7,
+    "sb61": 8,
+    "sb62": 9,
+    "sb63": 10
+}
 
 oauth = OAuth(app)
 
@@ -93,7 +106,13 @@ def home(var: str=""):
     if t in os.listdir("./summaries"):
         with open("./summaries/" + t + "/summary.txt") as file:
             summary = file.read()
-        return render_template("article.html", articlename=var, title=var, summary=summary, importance="", bias="")
+
+        #here
+        importance=f"<p>{}<\p>"
+        bias=""
+        #here
+
+        return render_template("article.html", articlename=var, title=var, summary=summary, importance=importance, bias=bias)
     abort(404)
     
 @app.route("/upload", methods=["POST"])
@@ -121,41 +140,40 @@ def ratings():
 
     src_art = request.referrer[request.referrer.rindex("/")+1:]
     src_art = src_art.replace("%20", "").lower()
-    
-    idmap = {
-        "hb59": 1,
-        "hb60": 2,
-        "hb61": 3,
-        "hb62": 4,
-        "hb63": 5,
-        "sb58": 6,
-        "sb59": 7,
-        "sb61": 8,
-        "sb62": 9,
-        "sb63": 10
-    }
 
     data = json.loads(request.data)
 
     data = {
-        "art_id": idmap[src_art],
-        "user_id": session.get("user")["userinfo"]["sub"],
-        "bias": data["usr_bias"]     == "yes",
-        "important": data["usr_imp"] == "yes",
-        "opinion": data["usr_opin"]  == "yes"
+        "ArtId": idmap[src_art],
+        "UserId": session.get("user")["userinfo"]["sub"],
+        "Biased": data["usr_bias"]   == "yes",
+        "Important": data["usr_imp"] == "yes",
+        "Opinion": data["usr_opin"]  == "yes"
     }
 
-    rating = Ratings.query.filter_by(UserId=data["user_id"], ArtId=data["art_id"]).first()
-
-    if rating is None:
-        new_rating = Ratings(ArtId=data["art_id"], UserId=data["user_id"], Biased=data["bias"], Important=data["important"], Opinion=data["important"])
-    else:
-        pass
+    rating = Ratings.query.filter_by(UserId=data["UserId"], ArtId=data["ArtId"]).first()
     
-    db.session.add(new_rating)
+    skip = False
+    if rating is None:
+        new_rating = Ratings(
+            UserId=data["UserId"], 
+            ArtId=data["ArtId"], 
+            Biased=data["Biased"], 
+            Important=data["Important"], 
+            Opinion=data["Opinion"]
+        )
+    else:
+        rating.Biased = data["Biased"]
+        rating.Important = data["Important"]
+        rating.Opinion = data["Opinion"]
+        skip = True
+        
+    
+    if not skip: 
+        db.session.add(new_rating)
     db.session.commit()
     
-    redirect(request.referrer)
+    return ""
         
 if __name__ == "__main__":
     app.run(host="localhost", port=env.get("PORT", 3000)) #ssl_context='adhoc'
