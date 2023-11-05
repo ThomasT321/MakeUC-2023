@@ -1,0 +1,25 @@
+As Introduced
+135th General Assembly
+Regular Session S. B. No. 61
+2023-2024
+Senators Craig, Manning
+Cosponsors: Senators Hicks-Hudson, DeMora, Antonio, Smith, Ingram, Sykes
+A B I L L
+To enact section 3902.63 of the Revised Code to cap
+cost sharing for prescription insulin drugs.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 3902.63 of the Revised Code be
+enacted to read as follows:
+Sec. 3902.63. (A) As used in this section, "prescription
+insulin drug" means a prescription drug that contains insulin
+and is used to treat diabetes.
+(B) Notwithstanding section 3901.71 of the Revised Code,
+no health plan issuer that provides coverage for prescription
+insulin drugs pursuant to the terms of a health benefit plan
+amended, issued, or renewed on or after the effective date of
+this section shall require cost sharing for a covered
+prescription insulin drug in an amount exceeding thirty-five
+dollars per thirty-day supply of the drug, regardless of the
+amount or type of insulin needed to fill the covered person's
+prescription. The cost sharing shall be charged on a per-
+prescription-fill basis.

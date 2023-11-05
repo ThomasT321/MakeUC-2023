@@ -1,0 +1,85 @@
+As Introduced
+135th General Assembly
+Regular Session S. B. No. 63
+2023-2024
+Senator Lang
+Cosponsors: Senators Cirino, Hackett, Huffman, S., Romanchuk, Schaffer,
+Schuring, Wilson, Rulli, Reynolds, Reineke
+A B I L L
+To enact section 2307.931 of the Revised Code to
+require a plaintiff in a tort action alleging an
+asbestos claim to file specified disclosures.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That section 2307.931 of the Revised Code be
+enacted to read as follows:
+Sec. 2307.931. (A) As used in this section, "each
+exposure" means every exposure to asbestos or an asbestos-
+containing product by an exposed person or by a person through
+whom the exposed person was exposed to asbestos.
+(B) The plaintiff in any tort action who alleges an
+asbestos claim shall file, within thirty days after filing any
+complaint, a sworn statement signed by the plaintiff or the
+plaintiff's counsel, specifying the evidence that provides the
+basis for each asbestos claim against each defendant in the
+action. The sworn statement is in addition to any other
+requirements for asbestos claims under sections 2307.91 to
+2307.98 of the Revised Code and shall include all of the
+following with specificity:
+(1) The name, address, date of birth, marital status,
+occupation, smoking history, current and past worksites, and
+current and past employers of the exposed person and any person
+through whom the exposed person was exposed to asbestos;
+(2) The name, address, and relationship to the exposed
+person of each person who is knowledgeable regarding the exposed
+person's exposures to asbestos;
+(3) The manufacturer and seller and the specific name of
+each asbestos-containing product, including, but not limited to,
+all brand and trade names of that specific asbestos-containing
+product, to which the exposed person was exposed or to which the
+other person was exposed if the exposure was through another
+person;
+(4) For each exposure to an asbestos-containing product
+identified under division (B)(3) of this section, each site and
+the specific location at each site, including the address of
+each site, where the exposed person was exposed or where the
+other person was exposed if the exposure was through another
+person;
+(5) The beginning and ending dates of each exposure, the
+specific manner of each exposure, the frequency and length of
+each exposure, and the proximity of the asbestos-containing
+product or its use to the exposed person and to each person
+through whom the exposed person alleges exposure to asbestos;
+(6) The specific asbestos-related disease that is alleged;
+(7) Any supporting documentation relating to the
+information required under division (B) of this section.
+(C) A plaintiff in a tort action alleging an asbestos
+claim has a continuing duty to supplement the information that
+is required to be disclosed under division (B) of this section,
+including when the plaintiff receives new exposure history
+information or becomes aware that a prior disclosure was
+inaccurate or incomplete.
+(D) The plaintiff shall not commence discovery against a
+defendant in a tort action alleging an asbestos claim until the
+defendant's product or premises is specifically identified in
+the disclosures required under division (B) of this section.
+(E)(1) A defendant whose product or premises is not
+specifically identified in the disclosures required under
+division (B) of this section, or who believes the plaintiff's
+disclosures fail to comply with division (B) of this section,
+may file a motion with the court to administratively dismiss the
+plaintiff's claim against that defendant. The plaintiff shall
+have thirty days from the date of the filing of the defendant's
+motion to file disclosures that comply with division (B) of this
+section or otherwise respond to the defendant's motion.
+(2) The court shall administratively dismiss a plaintiff's
+asbestos claim against a defendant who files a motion under
+division (E)(1) of this section or as to all defendants, as
+applicable, if the plaintiff's disclosures fail to comply with
+division (B) of this section.
+(F) A claim that is administratively dismissed pursuant to
+division (E) of this section is dismissed other than upon the
+merits for purposes of section 2305.19 of the Revised Code.
+(G) This section applies to a tort action alleging an
+asbestos claim that is filed on or after the effective date of
+(H) This section does not apply to a claim for workers'
+compensation or a claim for veterans' benefits.

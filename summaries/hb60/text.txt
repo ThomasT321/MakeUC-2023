@@ -1,0 +1,393 @@
+As Introduced
+135th General Assembly
+Regular Session H. B. No. 60
+2023-2024
+Representative Troy
+Cosponsors: Representatives Humphrey, Dell'Aquila, Miranda, Brent, Weinstein,
+Forhan, McNally, Miller, A., Brennan, Sweeney, Russo, Skindell, Lightbody, Baker,
+Upchurch
+A B I L L
+To amend sections 323.152 and 4503.065 of the
+Revised Code to increase the amount of and
+expand the income qualifications for the
+homestead exemption.
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 323.152 and 4503.065 of the
+Revised Code be amended to read as follows:
+Sec. 323.152. In addition to the reduction in taxes
+required under section 319.302 of the Revised Code, taxes shall
+be reduced as provided in divisions (A) and (B) of this section.
+(A)(1)(a) Division (A)(1) of this section applies to any
+of the following persons:
+(i) A person who is permanently and totally disabled;
+(ii) A person who is sixty-five years of age or older;
+(iii) A person who is the surviving spouse of a deceased
+person who was permanently and totally disabled or sixty-five
+years of age or older and who applied and qualified for a
+reduction in taxes under this division in the year of death,
+provided the surviving spouse is at least fifty-nine but not
+sixty-five or more years of age on the date the deceased spouse
+dies.
+(b) Real property taxes on a homestead owned and occupied,
+or a homestead in a housing cooperative occupied, by a person to
+whom division (A)(1) of this section applies shall be reduced
+for each year for which an application for the reduction has
+been approved. The reduction shall equal one of the following
+amounts, as applicable to the person:
+(i) If the person received a reduction under division (A)
+(1) of this section for tax year 2006, the greater of the
+reduction for that tax year or the amount computed under
+division (A)(1)(c) of this section;
+(ii) If the person received, for any homestead, a
+reduction under division (A)(1) of this section for tax year
+2013 or under division (A) of section 4503.065 of the Revised
+Code for tax year 2014 or the person is the surviving spouse of
+such a person and the surviving spouse is at least fifty-nine
+years of age on the date the deceased spouse dies, the amount
+computed under division (A)(1)(c) of this section. For purposes
+of divisions (A)(1)(b)(ii) and (iii) of this section, a person
+receives a reduction under division (A)(1) of this section or
+under division (A) of section 4503.065 of the Revised Code for
+tax year 2013 or 2014, respectively, if the person files a late
+application for that respective tax year that is approved by the
+county auditor under section 323.153 or 4503.066 of the Revised
+Code.
+(iii) If the person is not described in division (A)(1)(b)
+(i) or (ii) of this section and the person's total income does
+not exceed thirty forty-five thousand dollars, as adjusted under
+division (A)(1)(d) of this section, the amount computed under
+division (A)(1)(c) of this section.
+(c) The amount of the reduction under division (A)(1)(c)
+of this section equals the product of the following:
+(i) Twenty-five thousand Forty thousand dollars of the
+true value of the property in money, as adjusted under division
+(A)(1)(d) of this section;
+(ii) The assessment percentage established by the tax
+commissioner under division (B) of section 5715.01 of the
+Revised Code, not to exceed thirty-five per cent;
+(iii) The effective tax rate used to calculate the taxes
+charged against the property for the current year, where
+"effective tax rate" is defined as in section 323.08 of the
+Revised Code;
+(iv) The quantity equal to one minus the sum of the
+percentage reductions in taxes received by the property for the
+current tax year under section 319.302 of the Revised Code and
+division (B) of section 323.152 of the Revised Code.
+(d) Each calendar year, the tax commissioner shall adjust
+the total income threshold described in division (A)(1)(b)(iii)
+and the reduction amount described in division (A)(1)(c)(i) of
+this section by completing the following calculations in
+September of each year:
+(i) Determine the percentage increase in the gross
+domestic product deflator determined by the bureau of economic
+analysis of the United States department of commerce from the
+first day of January of the preceding calendar year to the last
+day of December of the preceding calendar year;
+(ii) Multiply that percentage increase by the total income
+threshold or reduction amount for the current tax year, as
+applicable;
+(iii) Add the resulting product to the total income
+threshold or the reduction amount, as applicable, for the
+current tax year;
+(iv) Round the resulting sum to the nearest multiple of
+one hundred dollars.
+The commissioner shall certify the amount resulting from
+the each adjustment to each county auditor not later than the
+first day of December each year. The certified total income
+threshold amount applies to the following tax year for persons
+described in division (A)(1)(b)(iii) of this section. The
+certified reduction amount applies to the following tax year.
+The commissioner shall not make the applicable adjustment in any
+calendar year in which the amount resulting from the adjustment
+would be less than the total income threshold or the reduction
+amount for the current tax year.
+(2) Real property taxes on a homestead owned and occupied,
+or a homestead in a housing cooperative occupied, by a disabled
+veteran shall be reduced for each year for which an application
+for the reduction has been approved. The reduction shall equal
+the product obtained by multiplying fifty thousand dollars of
+the true value of the property in money by the amounts described
+in divisions (A)(1)(c)(ii) to (iv) of this section. The
+reduction is in lieu of any reduction under section 323.158 of
+the Revised Code or division (A)(1) or (3) of this section. The
+reduction applies to only one homestead owned and occupied by a
+disabled veteran.
+If a homestead qualifies for a reduction in taxes under
+division (A)(2) of this section for the year in which the
+disabled veteran dies, and the disabled veteran is survived by a
+spouse who occupied the homestead when the disabled veteran died
+and who acquires ownership of the homestead or, in the case of a
+homestead that is a unit in a housing cooperative, continues to
+occupy the homestead, the reduction shall continue through the
+year in which the surviving spouse dies or remarries.
+(3) Real property taxes on a homestead owned and occupied,
+or a homestead in a housing cooperative occupied, by the
+surviving spouse of a public service officer killed in the line
+of duty shall be reduced for each year for which an application
+for the reduction has been approved. The reduction shall equal
+the product obtained by multiplying fifty thousand dollars of
+the true value of the property in money by the amounts described
+in divisions (A)(1)(c)(ii) to (iv) of this section. The
+reduction is in lieu of any reduction under section 323.158 of
+the Revised Code or division (A)(1) or (2) of this section. The
+reduction applies to only one homestead owned and occupied by
+such a surviving spouse. A homestead qualifies for a reduction
+in taxes under division (A)(3) of this section for the tax year
+in which the public service officer dies through the tax year in
+which the surviving spouse dies or remarries.
+(B) To provide a partial exemption, real property taxes on
+any homestead, and manufactured home taxes on any manufactured
+or mobile home on which a manufactured home tax is assessed
+pursuant to division (D)(2) of section 4503.06 of the Revised
+Code, shall be reduced for each year for which an application
+for the reduction has been approved. The amount of the reduction
+shall equal two and one-half per cent of the amount of taxes to
+be levied by qualifying levies on the homestead or the
+manufactured or mobile home after applying section 319.301 of
+the Revised Code. For the purposes of this division, "qualifying
+levy" has the same meaning as in section 319.302 of the Revised
+Code.
+(C) The reductions granted by this section do not apply to
+special assessments or respread of assessments levied against
+the homestead, and if there is a transfer of ownership
+subsequent to the filing of an application for a reduction in
+taxes, such reductions are not forfeited for such year by virtue
+of such transfer.
+(D) The reductions in taxable value referred to in this
+section shall be applied solely as a factor for the purpose of
+computing the reduction of taxes under this section and shall
+not affect the total value of property in any subdivision or
+taxing district as listed and assessed for taxation on the tax
+lists and duplicates, or any direct or indirect limitations on
+indebtedness of a subdivision or taxing district. If after
+application of sections 5705.31 and 5705.32 of the Revised Code,
+including the allocation of all levies within the ten-mill
+limitation to debt charges to the extent therein provided, there
+would be insufficient funds for payment of debt charges not
+provided for by levies in excess of the ten-mill limitation, the
+reduction of taxes provided for in sections 323.151 to 323.159
+of the Revised Code shall be proportionately adjusted to the
+extent necessary to provide such funds from levies within the
+ten-mill limitation.
+(E) No reduction shall be made on the taxes due on the
+homestead of any person convicted of violating division (D) or
+(E) of section 323.153 of the Revised Code for a period of three
+years following the conviction.
+Sec. 4503.065. (A)(1) Division (A) of this section applies
+to any of the following persons:
+(a) An individual who is permanently and totally disabled;
+(b) An individual who is sixty-five years of age or older;
+(c) An individual who is the surviving spouse of a
+deceased person who was permanently and totally disabled or
+sixty-five years of age or older and who applied and qualified
+for a reduction in assessable value under this section in the
+year of death, provided the surviving spouse is at least fifty-
+nine but not sixty-five or more years of age on the date the
+deceased spouse dies.
+(2) The manufactured home tax on a manufactured or mobile
+home that is paid pursuant to division (C) of section 4503.06 of
+the Revised Code and that is owned and occupied as a home by an
+individual whose domicile is in this state and to whom this
+section applies, shall be reduced for any tax year for which an
+application for such reduction has been approved, provided the
+individual did not acquire ownership from a person, other than
+the individual's spouse, related by consanguinity or affinity
+for the purpose of qualifying for the reduction. An owner
+includes a settlor of a revocable or irrevocable inter vivos
+trust holding the title to a manufactured or mobile home
+occupied by the settlor as of right under the trust.
+(a) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(2) of that section, the reduction shall equal one
+of the following amounts, as applicable to the person:
+(i) If the person received a reduction under this section
+for tax year 2007, the greater of the reduction for that tax
+year or the amount computed under division (A)(2)(b) of this
+section;
+(ii) If the person received, for any homestead, a
+reduction under division (A) of this section for tax year 2014
+or under division (A)(1) of section 323.152 of the Revised Code
+for tax year 2013 or the person is the surviving spouse of such
+a person and the surviving spouse is at least fifty-nine years
+of age on the date the deceased spouse dies, the amount computed
+under division (A)(2)(b) of this section. For purposes of
+divisions (A)(2)(a)(ii) and (iii) of this section, a person
+receives a reduction under division (A) of this section or
+division (A)(1) of section 323.152 of the Revised Code for tax
+year 2014 or 2013, respectively, if the person files a late
+application for that respective tax year that is approved by the
+county auditor under section 4503.066 or 323.153 of the Revised
+Code.
+(iii) If the person is not described in division (A)(2)(a)
+(i) or (ii) of this section and the person's total income does
+not exceed thirty forty-five thousand dollars, as adjusted under
+division (A)(2)(e) of this section, the amount computed under
+division (A)(2)(b) of this section.
+(b) The amount of the reduction under division (A)(2)(b)
+of this section equals the product of the following:
+(i) Twenty-five Forty thousand dollars of the true value
+of the property in money, as adjusted under division (A)(2)(e)
+of this section;
+(ii) The assessment percentage established by the tax
+commissioner under division (B) of section 5715.01 of the
+Revised Code, not to exceed thirty-five per cent;
+(iii) The effective tax rate used to calculate the taxes
+charged against the property for the current year, where
+"effective tax rate" is defined as in section 323.08 of the
+Revised Code;
+(iv) The quantity equal to one minus the sum of the
+percentage reductions in taxes received by the property for the
+current tax year under section 319.302 of the Revised Code and
+division (B) of section 323.152 of the Revised Code.
+(c) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(1) of that section, the reduction shall equal one
+of the following amounts, as applicable to the person:
+(i) If the person received a reduction under this section
+for tax year 2007, the greater of the reduction for that tax
+year or the amount computed under division (A)(2)(d) of this
+section;
+(ii) If the person received, for any homestead, a
+reduction under division (A) of this section for tax year 2014
+or under division (A)(1) of section 323.152 of the Revised Code
+for tax year 2013 or the person is the surviving spouse of such
+a person and the surviving spouse is at least fifty-nine years
+of age on the date the deceased spouse dies, the amount computed
+under division (A)(2)(d) of this section. For purposes of
+divisions (A)(2)(c)(ii) and (iii) of this section, a person
+receives a reduction under division (A) of this section or under
+division (A)(1) of section 323.152 of the Revised Code for tax
+year 2014 or 2013, respectively, if the person files a late
+application for a refund of overpayments for that respective tax
+year that is approved by the county auditor under section
+4503.066 of the Revised Code.
+(iii) If the person is not described in division (A)(2)(c)
+(i) or (ii) of this section and the person's total income does
+not exceed thirty forty-five thousand dollars, as adjusted under
+division (A)(2)(e) of this section, the amount computed under
+division (A)(2)(d) of this section.
+(d) The amount of the reduction under division (A)(2)(d)
+of this section equals the product of the following:
+(i) Twenty-five Forty thousand dollars of the cost to the
+owner, or the market value at the time of purchase, whichever is
+greater, as those terms are used in division (D)(1) of section
+4503.06 of the Revised Code, and as adjusted under division (A)
+(2)(e) of this section;
+(ii) The percentage from the appropriate schedule in
+division (D)(1)(b) of section 4503.06 of the Revised Code;
+(iii) The assessment percentage of forty per cent used in
+division (D)(1)(b) of section 4503.06 of the Revised Code;
+(iv) The tax rate of the taxing district in which the home
+has its situs.
+(e) Each calendar year, the tax commissioner shall adjust
+the income threshold described in divisions (A)(2)(a)(iii) and
+(A)(2)(c)(iii) and the reduction amount described in divisions
+(A)(2)(b)(i) and (A)(2)(d)(i) of this section by completing the
+following calculations in September of each year:
+(i) Determine the percentage increase in the gross
+domestic product deflator determined by the bureau of economic
+analysis of the United States department of commerce from the
+first day of January of the preceding calendar year to the last
+day of December of the preceding calendar year;
+(ii) Multiply that percentage increase by the total income
+threshold or reduction amount for the ensuing tax year, as
+applicable;
+(iii) Add the resulting product to the total income
+threshold or reduction amount, as applicable for the ensuing tax
+year;
+(iv) Round the resulting sum to the nearest multiple of
+one hundred dollars.
+The commissioner shall certify the amount resulting from
+the each adjustment to each county auditor not later than the
+first day of December each year. The certified amount applies to
+the second ensuing tax year. The commissioner shall not make the
+applicable adjustment in any calendar year in which the amount
+resulting from the adjustment would be less than the total
+income threshold or the reduction amount for the ensuing tax
+year.
+(B) The manufactured home tax levied pursuant to division
+(C) of section 4503.06 of the Revised Code on a manufactured or
+mobile home that is owned and occupied by a disabled veteran
+shall be reduced for any tax year for which an application for
+such reduction has been approved, provided the disabled veteran
+did not acquire ownership from a person, other than the disabled
+veteran's spouse, related by consanguinity or affinity for the
+purpose of qualifying for the reduction. An owner includes an
+owner within the meaning of division (A)(2) of this section.
+(1) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(2) of that section, the reduction shall equal the
+product obtained by multiplying fifty thousand dollars of the
+true value of the property in money by the amounts described in
+divisions (A)(2)(b)(ii) to (iv) of this section.
+(2) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(1) of that section, the reduction shall equal the
+product obtained by multiplying fifty thousand dollars of the
+cost to the owner, or the market value at the time of purchase,
+whichever is greater, as those terms are used in division (D)(1)
+of section 4503.06 of the Revised Code, by the amounts described
+in divisions (A)(2)(d)(ii) to (iv) of this section.
+The reduction is in lieu of any reduction under section
+4503.0610 of the Revised Code or division (A) or (C) of this
+section. The reduction applies to only one manufactured or
+mobile home owned and occupied by a disabled veteran.
+If a manufactured or mobile home qualifies for a reduction
+in taxes under this division for the year in which the disabled
+veteran dies, and the disabled veteran is survived by a spouse
+who occupied the home when the disabled veteran died and who
+acquires ownership of the home, the reduction shall continue
+through the year in which the surviving spouse dies or
+remarries.
+(C) The manufactured home tax levied pursuant to division
+(C) of section 4503.06 of the Revised Code on a manufactured or
+mobile home that is owned and occupied by the surviving spouse
+of a public service officer killed in the line of duty shall be
+reduced for any tax year for which an application for such
+reduction has been approved, provided the surviving spouse did
+not acquire ownership from a person, other than the surviving
+spouse's deceased public service officer spouse, related by
+consanguinity or affinity for the purpose of qualifying for the
+reduction. An owner includes an owner within the meaning of
+division (A)(2) of this section.
+(1) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(2) of that section, the reduction shall equal the
+product obtained by multiplying fifty thousand dollars of the
+true value of the property in money by the amounts described in
+divisions (A)(2)(b)(ii) to (iv) of this section.
+(2) For manufactured and mobile homes for which the tax
+imposed by section 4503.06 of the Revised Code is computed under
+division (D)(1) of that section, the reduction shall equal the
+product obtained by multiplying fifty thousand dollars of the
+cost to the owner, or the market value at the time of purchase,
+whichever is greater, as those terms are used in division (D)(1)
+of section 4503.06 of the Revised Code, by the amounts described
+in divisions (A)(2)(d)(ii) to (iv) of this section.
+The reduction is in lieu of any reduction under section
+4503.0610 of the Revised Code or division (A) or (B) of this
+section. The reduction applies to only one manufactured or
+mobile home owned and occupied by such a surviving spouse. A
+manufactured or mobile home qualifies for a reduction in taxes
+under this division for the tax year in which the public service
+officer dies through the tax year in which the surviving spouse
+dies or remarries.
+(D) If the owner or the spouse of the owner of a
+manufactured or mobile home is eligible for a homestead
+exemption on the land upon which the home is located, the
+reduction to which the owner or spouse is entitled under this
+section shall not exceed the difference between the reduction to
+which the owner or spouse is entitled under division (A), (B),
+or (C) of this section and the amount of the reduction under the
+homestead exemption.
+(E) No reduction shall be made with respect to the home of
+any person convicted of violating division (C) or (D) of section
+4503.066 of the Revised Code for a period of three years
+following the conviction.
+Section 2. That existing sections 323.152 and 4503.065 of
+the Revised Code are hereby repealed.
+Section 3. The amendment by this act of section 323.152 of
+the Revised Code applies to tax year 2023 and every tax year
+thereafter. The amendment by this act of section 4503.065 of the
+Revised Code applies to tax year 2024 and every tax year
+thereafter.

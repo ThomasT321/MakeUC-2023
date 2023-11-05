@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}
+<title>Summarize</title>
+{% endblock %}
+
+{% block content %}
+<script src="/script.js"></script>
+<p><a href="/logout">Logout</a></p>
+<h2 class="title">Text Summarizer</h2>
+
+<input type="file" id="fileInput" name="file">
+<button type="submit" id="fileSubmitButton" onclick="sendfile()">Submit File</button>
+
+<div id="textDisplay"></div>
+{% endblock %}
