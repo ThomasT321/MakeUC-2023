@@ -86,7 +86,7 @@ def logout():
     )
 # -----------------------
 
-
+ 
 # main route for navigation
 @app.route("/")
 @app.route("/<var>")
