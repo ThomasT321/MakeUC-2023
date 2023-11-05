@@ -21,7 +21,7 @@ db = SQLAlchemy(app)
 
 class ViewCount(db.Model):
     ArtId = db.Column(db.Integer, primary_key=True)
-    VwCnt = db.Column(db.Integer, default = 0)
+    VwCnt = db.Column(db.Integer)
 
 class Ratings(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -104,13 +104,36 @@ def home(var: str=""):
 
     t = var.lower().replace(' ', '')
     if t in os.listdir("./summaries"):
+        article_id = idmap[t]
+        viewcount = ViewCount.query.filter_by(ArtId=article_id).first()
+    
+        skip = False
+        if viewcount is None:
+            new_rating = ViewCount(
+                VwCnt=1, 
+                ArtId=article_id, 
+            )
+        else:
+            viewcount.VwCnt += 1
+            skip = True
+        
+        if not skip: 
+            db.session.add(new_rating)
+        db.session.commit()
+        
         with open("./summaries/" + t + "/summary.txt") as file:
             summary = file.read()
 
-        #here
-        importance=f"<p>{}<\p>"
-        bias=""
-        #here
+        # Calculate the totals for biases and importance across all users
+        ratings_for_art_id = Ratings.query.filter_by(ArtId=article_id).all()
+
+        # Calculate the totals for biases and importance for the specified ArtId
+        total_bias = sum(rating.Biased for rating in ratings_for_art_id)
+        total_importance = sum(rating.Important for rating in ratings_for_art_id)
+
+        # Display the totals
+        importance = f"Importance Rating: {total_importance}"
+        bias = f"Bias Rating: {total_bias}"
 
         return render_template("article.html", articlename=var, title=var, summary=summary, importance=importance, bias=bias)
     abort(404)
